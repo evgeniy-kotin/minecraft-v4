@@ -18,8 +18,8 @@ ___
 
 **Расположение:** `Россия`</br>
 **Железо:** `Ryzen 9 4x5.7GHz, DDR5 32GB, NVMe 100GB`</br>
-**Ядро сервера:** ``</br>
-**Версия Java:** ``</br>
+**Ядро сервера:** </br>
+**Версия Java:** </br>
 
 ### [Гайд по запуску сборки](https://github.com/evgeniy-kotin/minecraft-v4/blob/main/guides/how-to-play.md)
 
