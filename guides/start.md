@@ -1,4 +1,4 @@
-[<- На главную](https://github.com/evgeniy-kotin/minecraft-v3?tab=readme-ov-file#оглавление)
+[<- На главную](https://github.com/evgeniy-kotin/minecraft-v4?tab=readme-ov-file#оглавление)
 
 # Начало игры
 
@@ -37,7 +37,7 @@
 
 Чтобы сделать ник цветным - нужно использовать код цвета. Все доступные цвета представлены [тут](https://i.pinimg.com/originals/a6/ae/fc/a6aefcc59c48d1dc0649166cd5dc8129.jpg)</br>
 
-`/nick &4Tomato` - устанавливает ник Tomato темно-красного цвета. [Пример](https://github.com/evgeniy-kotin/minecraft-v3/blob/main/images/nick_tomato.png)</br>
-`/nick &cR&6a&ei&2n&bb&9o&5w` - устанавливает ник Rainbow цветами радуги. [Пример](https://github.com/evgeniy-kotin/minecraft-v3/blob/main/images/nick_rainbow.png)</br>
+`/nick &4Tomato` - устанавливает ник Tomato темно-красного цвета. [Пример](https://github.com/evgeniy-kotin/minecraft-v4/blob/main/images/nick_tomato.png)</br>
+`/nick &cR&6a&ei&2n&bb&9o&5w` - устанавливает ник Rainbow цветами радуги. [Пример](https://github.com/evgeniy-kotin/minecraft-v4/blob/main/images/nick_rainbow.png)</br>
 
 *Постарайтесь не злоупотреблять изменением ников. Но это не запрет, а рекомендация, наказания никакого не будет. В целом для галочки это написал*

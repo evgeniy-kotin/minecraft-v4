@@ -1,4 +1,4 @@
-[<- На главную](https://github.com/evgeniy-kotin/minecraft-v3?tab=readme-ov-file#оглавление)
+[<- На главную](https://github.com/evgeniy-kotin/minecraft-v4?tab=readme-ov-file#оглавление)
 
 # Дома и варпы
 

@@ -1,4 +1,4 @@
-[<- На главную](https://github.com/evgeniy-kotin/minecraft-v3?tab=readme-ov-file#оглавление)
+[<- На главную](https://github.com/evgeniy-kotin/minecraft-v4?tab=readme-ov-file#оглавление)
 
 # Регионы
 
@@ -13,7 +13,7 @@
 Чтобы выделить территорию, нужно указать две точки (два противоположных угла параллелипипеда).</br>
 Первый - левый клик с топором в руке</br>
 Второй - правый клик с топором в руке</br>
-После того, как будет выбраны два блока, выделенная зона будет показана [рамкой](https://github.com/evgeniy-kotin/minecraft-v3/blob/main/images/regions_hover.png).
+После того, как будет выбраны два блока, выделенная зона будет показана [рамкой](https://github.com/evgeniy-kotin/minecraft-v4/blob/main/images/regions_hover.png).
 
 Чтобы расширить данную зону, нужно посмотреть в сторону расширения и выполнить команду</br>
 `//expand <BLOCK_COUNT>`, где <BLOCK_COUNT> - количество блоков
