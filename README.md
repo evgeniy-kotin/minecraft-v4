@@ -24,7 +24,7 @@ ___
 ### [Гайд по запуску сборки](https://github.com/evgeniy-kotin/minecraft-v4/blob/main/guides/how-to-play.md)
 
 *Обязательны к установке. Без них не пустит на сервер.*</br>
-**Основные моды:** [MinecraftModsV4-1.0.0.zip]()
+**Основные моды:** [default.zip](https://disk.yandex.ru/d/Y006pfQEh-85Ww)
 
 ### Текстурпаки
 
@@ -57,3 +57,45 @@ ___
 ___
 
 ## Список модов
+
+- Aether
+- Alex's Caves
+- Alex's Mobs
+- Awesome Dungeon Ocean
+- Better Village
+- Blue Skies
+- Burrowers
+- Call of Yucutan
+- Carry On
+- Create
+- Create Guardian Beam Defense
+- Create Oxidized
+- Create Structures
+- Create Trimmed
+- Deeper Darker
+- Everything Copper
+- Handcrafted
+- Incendium
+- Iron Chest
+- Lets Do Wildernature
+- Nightlights
+- Right Click Get Crops
+- Sizeshifting Potions
+- Spawn
+- Stackable Potions
+- Steam Rails
+- Structory
+- Tectonic
+- Terralith
+- Tree Harvester
+- Voice Chat
+- Woodster
+- Yungs Better Desert Temples
+- Yungs Better Dungeons
+- Yungs Better End Island
+- Yungs Better Jungle Temples
+- Yungs Better Mineshafts
+- Yungs Better Nether Fortresses
+- Yungs Better Ocean Monuments
+- Yungs Better Strongholds
+- Yungs Better Witch Huts
