@@ -5,13 +5,11 @@ ___
 
 1. [Информация о сервере](#информация-о-сервере)
 2. [Игрокам](#игрокам)
-3. [Модераторам](#модераторам)
-4. [Список модов](#список-модов)
+3. [Список модов](#список-модов)
 
 ___
 
 ## Информация о сервере
-(еще не запущен)
 
 **Версия игры:** `1.20.1`</br>
 **IP:** `185.9.145.133:29773`</br>
@@ -46,13 +44,6 @@ ___
 ### [Коммуникация](https://github.com/evgeniy-kotin/minecraft-v4/blob/main/guides/players-communication.md)
 ### [Дома и варпы](https://github.com/evgeniy-kotin/minecraft-v4/blob/main/guides/homes-and-warps.md)
 ### [Регионы](https://github.com/evgeniy-kotin/minecraft-v4/blob/main/guides/regions.md)
-
-___
-
-## Модераторам
-
-### [Коммуникация модераторов](https://github.com/evgeniy-kotin/minecraft-v4/blob/main/guides/moder/moder-communication.md)
-### [Команды для модераторов](https://github.com/evgeniy-kotin/minecraft-v4/blob/main/guides/moder/moder-commands.md)
 
 ___
 
