@@ -26,15 +26,12 @@ ___
 
 ### Текстурпаки
 
-[Текстуры 32х32]()</br>
-[Текстуры 64х64]()</br>
-[Текстуры 128х128]()</br>
+[Текстуры 32х32](https://modrinth.com/resourcepack/faithful-32x)</br>
+[Текстуры 64х64](https://modrinth.com/resourcepack/faithful-64x)</br>
 
 ### Шейдеры
 
-[Шейдеры (Low)]()</br>
-[Шейдеры (Medium)]()</br>
-[Шейдеры (High)]()</br>
+[Шейдеры (Medium)](https://minecraft-inside.ru/shaders/135839-complementary-shaders.html)</br>
 ___
 
 ## Игрокам
